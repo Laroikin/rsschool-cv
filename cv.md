@@ -49,3 +49,21 @@ function isPangram(string){
   return ans;
 }
 ```
+
+## **Work Expirience**
+
+I had an expirience of working in our lyceum's media team.
+In the summer of 2021 I redesigned a mobile app which is still in the works and created branding design for the new house complex in the suburbs of Tashkent.
+Made a couple of websites for the lyceum science projects.
+
+## **My education**
+
+1. Academic Lyceum of Westminster University in Tashkent
+2. Sejong University
+3. Proweb Web Development Course
+
+## **Foreign languages**
+
+* Russian(Native)
+* English(C1(IELTS 8.0))
+* Korean(A1)
