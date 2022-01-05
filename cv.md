@@ -8,7 +8,7 @@
 
 ### **About me**
 
-Hello! I am UX/UI Designer and Front-end Developer from Uzbekistan currently studying in one of the most prestigious universities of South Korea. I am already familiar with the basics of front-end development and I am working on further improving upon those skills and acquire new ones in the process.
+Hello! I am UX/UI Designer and Front-end Developer from Uzbekistan currently studying in one of the most prestigious universities of South Korea. I am eager to learn and acquire new skills as well as to further improve on the ones I already have. I believe that everything is possible if you try hard enough :)
 
 ## **My Skills**
 
