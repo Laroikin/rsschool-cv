@@ -521,13 +521,15 @@ address {
 }
 
 .footer .footer__container .footer__inner--top .footer__links {
+    filter: brightness(100);
     margin: 0 auto;
+    width: 1200px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .footer .footer__container .footer__inner--top .footer__links .footer__item {
@@ -546,4 +548,19 @@ address {
     height: 100%;
     background: url(./img/footer-icon-rsschool.svg) center center no-repeat;
     background-size: cover;
+    filter: invert(100);
 }
+
+.footer
+    .footer__container
+    .footer__inner--top
+    .footer__links
+    .footer__item
+    .footer__link--github{
+        display: inline-block;
+        font-size: 28px;
+        width: 80px;
+        height: 100%;
+        background: url(./img/GitHub_Logo.png) center center no-repeat;
+        background-size: cover;
+    }
